@@ -1,0 +1,30 @@
+[
+    {
+      "id": 1,
+      "title": "Introduction to Data Science",
+      "categories": ["Data Science", "Machine Learning", "Python"],
+      "price": 49.99,
+      "date": "2024-02-09",
+      "author": "John Doe",
+      "status": "Active"
+    },
+    {
+      "id": 2,
+      "title": "Full Stack Web Development",
+      "categories": [ "HTML", "CSS", "JavaScript", "Node.js", "React"],
+      "price": 79.99,
+      "date": "2024-02-09",
+      "author": "Jane Smith",
+      "status": "Active"
+    },
+    {
+      "id": 3,
+      "title": "Introduction to Photography",
+      "categories": ["Digital Photography", "Composition", "Lighting"],
+      "price": 39.99,
+      "date": "2024-02-09",
+      "author": "Alex Johnson",
+      "status": "Active"
+    }
+  ]
+  
